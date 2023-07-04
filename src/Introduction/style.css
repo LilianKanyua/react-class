@@ -1,0 +1,44 @@
+.heading{
+    color:aqua
+}
+.intro{
+    margin-left: 2%;
+}
+.countries{
+    margin-top: 5%;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    border:1px solid #19a8ad;
+    width:80%;
+    margin-left: 5%;
+    border-radius: 5px;
+    padding:5%;
+    margin-bottom: 3%;
+}
+.globe{
+    width:80%;
+}
+.part-two{
+    margin-left: -10%;
+    font-size: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color:#19a8ad;
+}
+.table{
+    width: 80%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
